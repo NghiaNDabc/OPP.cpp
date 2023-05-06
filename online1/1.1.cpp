@@ -12,7 +12,7 @@ void NCC :: nhap()
 {
 	cout << "Ma ncc: "; fflush(stdin); gets(MaNCC);
 	cout << "TenNCC: "; fflush(stdin); gets(TenNCC);
-	cout << "DCNCC: "; fflush(stdin); gets(DCNCC);
+	cout << "DCNCCBBBBBB: "; fflush(stdin); gets(DCNCC);
 }
 void NCC :: xuat(){
 		cout << "Ma ncc: " << MaNCC << endl;
