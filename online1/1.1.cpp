@@ -19,3 +19,7 @@ void NCC :: xuat(){
 	cout << "TenNCC: " << TenNCC << endl;
 	cout << "DCNCC: " << DCNCC << endl;
 }
+
+int main()
+{
+}
