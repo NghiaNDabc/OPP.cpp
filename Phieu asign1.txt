@@ -1,0 +1,21 @@
+Phieu 001
+20
+12
+2021
+NCC01
+Nghia Pham
+bon be nam dinh
+0099387
+3
+SP001
+QUat
+2
+30
+sp002
+Tivi
+3
+10
+sp003
+laptop
+4
+40
