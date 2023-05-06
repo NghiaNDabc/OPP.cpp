@@ -17,7 +17,7 @@ void NCC :: nhap()
 void NCC :: xuat(){
 		cout << "Ma ncc: " << MaNCC << endl;
 	cout << "TenNCC: " << TenNCC << endl;
-	cout << "DCNCC: " << DCNCC << endl;
+	cout << "DCNCCAAA: " << DCNCC << endl;
 }
 
 int main()
