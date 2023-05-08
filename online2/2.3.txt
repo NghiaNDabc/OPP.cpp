@@ -1,0 +1,17 @@
+DCN
+HAUI
+Cam muoi tu
+2
+2
+KH01
+CNTT
+Nghia
+K002
+Ke toan
+NGHIA
+B001
+Mua
+1/1/1
+B002
+Nhay
+2/2/2
