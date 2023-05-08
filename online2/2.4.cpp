@@ -92,7 +92,7 @@ int main(){
 		x[i].xuat();
 		cout << endl;
 	}
-	cout << "So benh nhanh > 30 tuoi = " << BN30(x,n);
+	cout << "So benh nhanh > 30 tuoi = " << BN30(x,n) << endl;
     SUA(x,n);
     for(int i = 0; i < n; i++){
 		cout << "Xuat Benh Nhan thu " << i  + 1 << endl;
