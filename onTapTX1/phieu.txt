@@ -1,0 +1,21 @@
+PH001
+20
+20
+2020
+NCC01
+Cong ty Van Phu
+Quan Ha Dong , Ha Noi
+012346987
+3
+SP01
+Giay in A4
+100
+70
+SP02
+But da bang
+50
+10
+SP03
+ Tui clear
+60
+5
